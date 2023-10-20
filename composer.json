@@ -1,13 +1,13 @@
 {
-    "name": "friendsofsymfonyphp8/oauth-server-bundle",
-    "description": "Symfony2 OAuth Server Bundle",
-    "license": "MIT",
-    "type": "symfony-bundle",
+    "name": "friendsofsymfonyforphp8/oauth-server-bundle",
+    "description": "Fork of Symfony2 OAuth Server Bundle",
     "keywords": [
         "oauth",
         "oauth2",
         "server"
     ],
+    "license": "MIT",
+    "type": "symfony-bundle",
     "authors": [
         {
             "name": "Arnaud Le Blanc",
