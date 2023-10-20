@@ -1,5 +1,5 @@
 {
-    "name": "rsw/oauth-server-bundle",
+    "name": "php8friendsofsymfony/oauth-server-bundle",
     "description": "Fork of Symfony2 OAuth Server Bundle",
     "keywords": [
         "oauth",
